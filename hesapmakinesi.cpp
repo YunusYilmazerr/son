@@ -72,7 +72,7 @@ int main()
 
 
 
-	cout << "\nCikmak icin bir tusa basiniz.";
+	cout << "\nCikmak icin bir tusa basiniz.\n\n";
 
 
 
