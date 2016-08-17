@@ -18,7 +18,7 @@ int main()
 
 {
 
-	cout << "\n                                HESAP MAKiNESi";
+	cout << "\n HESAP MAKiNESi";
 
 	
 
